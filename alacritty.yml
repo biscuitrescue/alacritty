@@ -9,8 +9,8 @@ window:
     lines: 32
   
   padding:
-    x: 0
-    y: 6
+    x: 10
+    y: 0
 
   title: Alacritty
 
@@ -23,11 +23,11 @@ scrolling:
 
 font:
   normal:
-    family: operator mono medium
+    family: terminessttf nerd font mono
     style: Regular
 
   bold:
-    family: operator mono bold
+    family: terminessttf nerd font mono
     style: Bold
 
   italic:
@@ -38,7 +38,7 @@ font:
     family: Hack
     style: Bold Italic
 
-  size: 12
+  size: 15
 
   offset:
     x: 0
